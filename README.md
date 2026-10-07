@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Brennan Zahm I am a freshman at WSU currently studying Computer Engineering!
 
 <!--
 **BrennanZ-Stack/BrennanZ-Stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
